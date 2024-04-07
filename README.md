@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
-<h3 align="center">A Data-Scientist and NLP Enthusiast</h3>
+<h3 align="center">A Machine Learning Engineer at Welltime.ltd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moiz-51135&label=Profile%20views&color=0e75b6&style=flat" alt="moiz-51135" /> </p>
 
